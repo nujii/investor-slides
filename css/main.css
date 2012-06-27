@@ -60,8 +60,8 @@ body {
 .reveal h4 {
 	margin: 0 0 20px 0;
 	
-	color: #eee;
-	
+	color: #000;
+
 	font-family: 'League Gothic', sans-serif;
 	line-height: 0.9em;
 	letter-spacing: 0.02em;
@@ -79,7 +79,7 @@ body {
 .reveal h2.inverted,
 .reveal h3.inverted,
 .reveal h4.inverted {
-	color: #fff;
+	color: #000;
 	text-shadow: 0px 0px 2px rgba(0,0,0,0.2);
 }
 
@@ -399,11 +399,6 @@ body {
        -moz-transform-origin: 50% 0%;
         -ms-transform-origin: 50% 0%;
             transform-origin: 50% 0%;
-    
-    -webkit-transform-style: preserve-3d;
-       -moz-transform-style: preserve-3d;
-        -ms-transform-style: preserve-3d;
-            transform-style: preserve-3d;
 }
     .reveal .roll:hover span {
         background: rgba(0,0,0,0.5);
@@ -479,11 +474,6 @@ body {
 	min-height: 600px;
 
     z-index: 10;
-	
-	-webkit-transform-style: preserve-3d;
-	   -moz-transform-style: preserve-3d;
-	    -ms-transform-style: preserve-3d;
-	        transform-style: preserve-3d;
 	
 	-webkit-transition: all 800ms cubic-bezier(0.260, 0.860, 0.440, 0.985);
 	   -moz-transition: all 800ms cubic-bezier(0.260, 0.860, 0.440, 0.985);
