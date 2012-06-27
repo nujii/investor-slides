@@ -1,4 +1,4 @@
-investor-slides
+Nujii Studio Investor Slides
 ===============
 
-Investor Pitch Slides for Nujii Studio
+Visit the slides [here](http://nujii.github.com/investor-slides)
