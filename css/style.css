@@ -1,3 +1,14 @@
+body {
+	background-color: #EEEEEE;
+	background-image: url("./../img/background.png");
+	color: #555;
+}
+
+::selection {
+	background: #225482;
+	color: white;
+}
+
 .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
 	color: black !important;
 }
