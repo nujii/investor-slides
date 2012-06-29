@@ -1,7 +1,13 @@
+
+
 body {
 	background-color: #EEEEEE;
 	background-image: url("./../img/background.png");
 	color: #555;
+}
+
+.reveal.nujii h1, .reveal.nujii h2, .reveal.nujii h3, .reveal.nujii h4 {
+	color: black;
 }
 
 ::selection {
@@ -9,6 +15,20 @@ body {
 	color: white;
 }
 
-.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
-	color: black !important;
+.reveal.nujii a,
+.reveal.nujii a:hover,
+.reveal.nujii .controls a.enabled {
+	color: #225482;
+}
+
+.reveal.nujii .progress {
+	height: 5px;
+}
+
+.reveal.nujii .progress span {
+	background: #225482;
+}
+
+.reveal.nujii a.image:hover img {
+	border-color: #225482;
 }
