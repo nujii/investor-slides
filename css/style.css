@@ -6,6 +6,10 @@ body {
 	color: #555;
 }
 
+.info {
+	border-color: blue !important;
+}
+
 .reveal.nujii h1, .reveal.nujii h2, .reveal.nujii h3, .reveal.nujii h4 {
 	color: black;
 }
