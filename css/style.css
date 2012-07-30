@@ -6,6 +6,12 @@ body {
 	color: #555;
 }
 
+img.centerimage {
+	display: block;
+	margin-left: 50%;
+	margin-right: 50%;
+}
+
 .info {
 	border-color: blue !important;
 }
